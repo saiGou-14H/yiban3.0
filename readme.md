@@ -1,12 +1,9 @@
 # 2023/2/25更
 
-|———————————————|
+- 软件后台已停止维护  
+- 使用请转至  [yiban2.0](https://github.com/saiGou-14H/yiban2.0)
 
-|             软件后台已停止维        	  |
 
-|   使用请转至 2.0版本 [yiban2.0](https://github.com/saiGou-14H/yiban2.0)     |
-
-|———————————————|
 
 
 
