@@ -9,6 +9,10 @@
 
 ## 易班3.4使用说明
 
+![picture1](https://github.com/saiGou-14H/save-image/blob/main/%E6%98%93%E7%8F%AD/%E6%98%93%E7%8F%AD3.0/picture1.png)
+
+![picture2](https://github.com/saiGou-14H/save-image/blob/main/%E6%98%93%E7%8F%AD/%E6%98%93%E7%8F%AD3.0/picture1.png)
+
 ##### 1.一个号一天做完验证码任务需要打40次码 
 
 ##### 2.去除浏览器驱动，修复漏刷问题，增加批量导入账号
